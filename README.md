@@ -21,7 +21,7 @@ RFE is deployed on RENDER, ensuring a seamless and reliable user experience. The
 
 ## Getting Started
 
-To use RIPPER FOOTBALL ERA, simply visit our website at [https://ripperfootballera.onrender.com/] and follow the straightforward instructions to obtain game predictions. For developers interested in contributing or enhancing the app, check out our [contribution guidelines](CONTRIBUTING.md) to get started.
+To use RIPPER FOOTBALL ERA, simply visit our website at [https://ripper-football-era.onrender.com/] and follow the straightforward instructions to obtain game predictions. For developers interested in contributing or enhancing the app, check out our [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ## Future Goals
 
